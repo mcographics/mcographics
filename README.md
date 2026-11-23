@@ -41,51 +41,75 @@ I enjoy building tools that help people create, explore, learn, and turn ambitio
 
 ## Apps & Tools
 
-These are applications and technologies in my creative and development toolbox, also featured on my website.
+My creative and development toolbox, as featured on [Majestic Creations](https://majesticcreations.org).
 
 ### AI & Assistants
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-111111?style=for-the-badge&logo=x&logoColor=white)
-![Tripo](https://img.shields.io/badge/Tripo-6A5ACD?style=for-the-badge)
-![Meshy](https://img.shields.io/badge/Meshy-2667FF?style=for-the-badge)
+<div align="center">
+<table><tr>
+<td align="center" width="125"><a href="https://chatgpt.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/openai.svg" alt="ChatGPT icon" width="52" height="52"></a><br><sub><b>ChatGPT</b></sub></td>
+<td align="center" width="125"><a href="https://openai.com/codex/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/openai.svg" alt="Codex icon" width="52" height="52"></a><br><sub><b>Codex</b></sub></td>
+<td align="center" width="125"><a href="https://grok.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/x.svg" alt="Grok icon" width="52" height="52"></a><br><sub><b>Grok</b></sub></td>
+<td align="center" width="125"><a href="https://www.tripo3d.ai"><img alt="Tripo" src="https://img.shields.io/badge/Tripo-334155?style=for-the-badge" height="32"></a><br><sub><b>Tripo</b></sub></td>
+<td align="center" width="125"><a href="https://www.meshy.ai"><img alt="Meshy" src="https://img.shields.io/badge/Meshy-334155?style=for-the-badge" height="32"></a><br><sub><b>Meshy</b></sub></td>
+</tr></table>
+</div>
 
 ### Development & Frameworks
 
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Compiler](https://img.shields.io/badge/React_Compiler-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+<div align="center">
+<table><tr>
+<td align="center" width="125"><a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code icon" width="52" height="52"></a><br><sub><b>VS Code</b></sub></td>
+<td align="center" width="125"><a href="https://react.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React icon" width="52" height="52"></a><br><sub><b>React</b></sub></td>
+<td align="center" width="125"><a href="https://react.dev/learn/react-compiler"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Compiler icon" width="52" height="52"></a><br><sub><b>React Compiler</b></sub></td>
+<td align="center" width="125"><a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js icon" width="52" height="52"></a><br><sub><b>Node.js</b></sub></td>
+<td align="center" width="125"><a href="https://vite.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite icon" width="52" height="52"></a><br><sub><b>Vite</b></sub></td>
+<td align="center" width="125"><a href="https://www.electronjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="Electron icon" width="52" height="52"></a><br><sub><b>Electron</b></sub></td>
+</tr></table>
+</div>
 
 ### 3D, Animation & Game Engines
 
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![DAZ 3D](https://img.shields.io/badge/DAZ_3D-333333?style=for-the-badge)
+<div align="center">
+<table><tr>
+<td align="center" width="125"><a href="https://www.unrealengine.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine icon" width="52" height="52"></a><br><sub><b>Unreal Engine</b></sub></td>
+<td align="center" width="125"><a href="https://unity.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity icon" width="52" height="52"></a><br><sub><b>Unity</b></sub></td>
+<td align="center" width="125"><a href="https://www.blender.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="Blender icon" width="52" height="52"></a><br><sub><b>Blender</b></sub></td>
+<td align="center" width="125"><a href="https://www.daz3d.com"><img alt="DAZ 3D" src="https://img.shields.io/badge/DAZ_3D-334155?style=for-the-badge" height="32"></a><br><sub><b>DAZ 3D</b></sub></td>
+</tr></table>
+</div>
 
 ### Photo & Digital Painting
 
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
-![Adobe Lightroom Classic](https://img.shields.io/badge/Lightroom_Classic-001E36?style=for-the-badge&logo=adobelightroomclassic&logoColor=31A8FF)
-![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
-![Affinity Photo](https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=for-the-badge)
+<div align="center">
+<table><tr>
+<td align="center" width="125"><a href="https://www.adobe.com/products/photoshop.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop icon" width="52" height="52"></a><br><sub><b>Photoshop</b></sub></td>
+<td align="center" width="125"><a href="https://www.adobe.com/products/photoshop-lightroom-classic.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lightroom/lightroom-original.svg" alt="Lightroom Classic icon" width="52" height="52"></a><br><sub><b>Lightroom Classic</b></sub></td>
+<td align="center" width="125"><a href="https://krita.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/krita/krita-original.svg" alt="Krita icon" width="52" height="52"></a><br><sub><b>Krita</b></sub></td>
+<td align="center" width="125"><a href="https://www.affinity.studio"><img alt="Affinity Photo" src="https://img.shields.io/badge/Affinity_Photo-334155?style=for-the-badge" height="32"></a><br><sub><b>Affinity Photo</b></sub></td>
+</tr></table>
+</div>
 
 ### Design & Publishing
 
-![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-2374D9?style=for-the-badge)
-![Affinity Publisher](https://img.shields.io/badge/Affinity_Publisher-D9568D?style=for-the-badge)
+<div align="center">
+<table><tr>
+<td align="center" width="125"><a href="https://www.affinity.studio"><img alt="Affinity Designer" src="https://img.shields.io/badge/Affinity_Designer-334155?style=for-the-badge" height="32"></a><br><sub><b>Affinity Designer</b></sub></td>
+<td align="center" width="125"><a href="https://www.affinity.studio"><img alt="Affinity Publisher" src="https://img.shields.io/badge/Affinity_Publisher-334155?style=for-the-badge" height="32"></a><br><sub><b>Affinity Publisher</b></sub></td>
+</tr></table>
+</div>
 
 ### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<div align="center">
+<table><tr>
+<td align="center" width="125"><a href="https://www.java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java icon" width="52" height="52"></a><br><sub><b>Java</b></sub></td>
+<td align="center" width="125"><a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript icon" width="52" height="52"></a><br><sub><b>TypeScript</b></sub></td>
+<td align="center" width="125"><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C icon" width="52" height="52"></a><br><sub><b>C</b></sub></td>
+<td align="center" width="125"><a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C# icon" width="52" height="52"></a><br><sub><b>C#</b></sub></td>
+<td align="center" width="125"><a href="https://isocpp.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++ icon" width="52" height="52"></a><br><sub><b>C++</b></sub></td>
+</tr></table>
+</div>
 
 ---
 
