@@ -163,6 +163,7 @@ My creative and development toolbox, as featured on [Majestic Creations](https:/
 - **Website:** [Majestic Creations](https://majesticcreations.org)
 - **GitHub:** [@mcographics](https://github.com/mcographics)
 - **X:** [_kennethsalmon](https://x.com/_kennethsalmon)
+- **Signal:** [@ksalmon.87](https://signal.me/#eu/Ujlb90BzgwOjbY0uZ-e5VZC5y_1ASZwwQil8FN5oUXsgItQVnWhHHq-GhRy7yBFP)
 
 <div align="center">
 
