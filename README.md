@@ -31,7 +31,7 @@ I enjoy building tools that help people create, explore, learn, and turn ambitio
 | **Bible Recorder & Note Taker** | Android Bible study and recording app |
 | **From Islam to Christ** | A faith-guidance app for people who have left Islam and want to begin their journey of discovering Jesus Christ |
 | **Words of Yeshua** | Bible-based app focused exclusively on Jesus Christ, His words, life, and teachings |
-| **Public Nuisance** | Android satire news reader |
+| **Public Nuisance** | Live Canadian and U.S. news reader combining verified publisher sources with GTA-style satire, original commentary, and customizable roast controls |
 
 ### Research
 
