@@ -47,9 +47,9 @@ My creative and development toolbox, as featured on [Majestic Creations](https:/
 
 <div align="center">
 <table><tr>
-<td align="center" width="125"><a href="https://chatgpt.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/openai.svg" alt="ChatGPT icon" width="52" height="52"></a><br><sub><b>ChatGPT</b></sub></td>
-<td align="center" width="125"><a href="https://openai.com/codex/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/openai.svg" alt="Codex icon" width="52" height="52"></a><br><sub><b>Codex</b></sub></td>
-<td align="center" width="125"><a href="https://grok.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/x.svg" alt="Grok icon" width="52" height="52"></a><br><sub><b>Grok</b></sub></td>
+<td align="center" width="125"><a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT colored badge" height="34"></a><br><sub><b>ChatGPT</b></sub></td>
+<td align="center" width="125"><a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/Codex-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="Codex colored badge" height="34"></a><br><sub><b>Codex</b></sub></td>
+<td align="center" width="125"><a href="https://grok.com"><img src="https://img.shields.io/badge/Grok-475569?style=for-the-badge&logo=x&logoColor=white" alt="Grok colored badge" height="34"></a><br><sub><b>Grok</b></sub></td>
 <td align="center" width="125"><a href="https://www.tripo3d.ai"><img src="https://www.google.com/s2/favicons?domain=tripo3d.ai&amp;sz=128" alt="Tripo logo" width="52" height="52"></a><br><sub><b>Tripo</b></sub></td>
 <td align="center" width="125"><a href="https://www.meshy.ai"><img src="https://www.google.com/s2/favicons?domain=meshy.ai&amp;sz=128" alt="Meshy logo" width="52" height="52"></a><br><sub><b>Meshy</b></sub></td>
 </tr></table>
@@ -72,7 +72,7 @@ My creative and development toolbox, as featured on [Majestic Creations](https:/
 
 <div align="center">
 <table><tr>
-<td align="center" width="125"><a href="https://www.unrealengine.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine icon" width="52" height="52"></a><br><sub><b>Unreal Engine</b></sub></td>
+<td align="center" width="125"><a href="https://www.unrealengine.com"><img src="https://img.shields.io/badge/Unreal_Engine-5934B4?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine colored badge" height="34"></a><br><sub><b>Unreal Engine</b></sub></td>
 <td align="center" width="125"><a href="https://unity.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity icon" width="52" height="52"></a><br><sub><b>Unity</b></sub></td>
 <td align="center" width="125"><a href="https://www.blender.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="Blender icon" width="52" height="52"></a><br><sub><b>Blender</b></sub></td>
 <td align="center" width="125"><a href="https://www.daz3d.com"><img src="https://www.google.com/s2/favicons?domain=daz3d.com&amp;sz=128" alt="DAZ 3D logo" width="52" height="52"></a><br><sub><b>DAZ 3D</b></sub></td>
@@ -86,7 +86,7 @@ My creative and development toolbox, as featured on [Majestic Creations](https:/
 <td align="center" width="125"><a href="https://www.adobe.com/products/photoshop.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop icon" width="52" height="52"></a><br><sub><b>Photoshop</b></sub></td>
 <td align="center" width="125"><a href="https://www.adobe.com/products/photoshop-lightroom-classic.html"><img src="https://www.google.com/s2/favicons?domain=adobe.com&amp;sz=128" alt="Lightroom Classic logo" width="52" height="52"></a><br><sub><b>Lightroom Classic</b></sub></td>
 <td align="center" width="125"><a href="https://krita.org"><img src="https://www.google.com/s2/favicons?domain=krita.org&amp;sz=128" alt="Krita logo" width="52" height="52"></a><br><sub><b>Krita</b></sub></td>
-<td align="center" width="125"><a href="https://www.affinity.studio"><img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/affinityphoto-icon.png" alt="Affinity Photo logo" width="52" height="52"></a><br><sub><b>Affinity Photo</b></sub></td>
+<td align="center" width="125"><a href="https://www.affinity.studio"><img src="https://img.shields.io/badge/Affinity_Photo-8040C9?style=for-the-badge" alt="Affinity Photo colored badge" height="34"></a><br><sub><b>Affinity Photo</b></sub></td>
 </tr></table>
 </div>
 
@@ -94,8 +94,8 @@ My creative and development toolbox, as featured on [Majestic Creations](https:/
 
 <div align="center">
 <table><tr>
-<td align="center" width="125"><a href="https://www.affinity.studio"><img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/affinitydesigner-icon.png" alt="Affinity Designer logo" width="52" height="52"></a><br><sub><b>Affinity Designer</b></sub></td>
-<td align="center" width="125"><a href="https://www.affinity.studio"><img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/affinitypublisher-icon.png" alt="Affinity Publisher logo" width="52" height="52"></a><br><sub><b>Affinity Publisher</b></sub></td>
+<td align="center" width="125"><a href="https://www.affinity.studio"><img src="https://img.shields.io/badge/Affinity_Designer-1976D2?style=for-the-badge" alt="Affinity Designer colored badge" height="34"></a><br><sub><b>Affinity Designer</b></sub></td>
+<td align="center" width="125"><a href="https://www.affinity.studio"><img src="https://img.shields.io/badge/Affinity_Publisher-CC3366?style=for-the-badge" alt="Affinity Publisher colored badge" height="34"></a><br><sub><b>Affinity Publisher</b></sub></td>
 </tr></table>
 </div>
 
