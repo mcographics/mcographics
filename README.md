@@ -27,16 +27,6 @@
 
 ---
 
-**Kenneth Salmon** — Graphic Designer · Software Developer · Creative Technologist
-
-[![Website](https://img.shields.io/badge/Majestic_Creations-Website-C8A44D?style=for-the-badge)](https://majesticcreations.org)
-
-*Creating software, worlds, visual experiences, and tools that bring ideas to life.*
-
-</div>
-
----
-
 ## About Me
 
 I'm **Kenneth Salmon**, founder of **Majestic Creations**. My work brings together graphic design, software development, artificial intelligence, game-development technology, and creative experimentation.
