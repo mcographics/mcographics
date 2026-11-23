@@ -25,7 +25,7 @@ I enjoy building tools that help people create, explore, learn, and turn ambitio
 
 | Application | Focus |
 | --- | --- |
-| **The Islamic Dilemma** | Android research app |
+| **The Islamic Dilemma** | Christian–Islamic apologetics examining the Qur'an's affirmation of the Torah and Gospel and the question of biblical preservation. |
 | **Work Day with God** | Daily devotional app for Windows and Android |
 | **ChainBreaker** | Scripture-based daily missions and reflection app |
 | **Bible Recorder & Note Taker** | Android Bible study and recording app |
