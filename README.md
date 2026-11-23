@@ -23,12 +23,12 @@ I enjoy building tools that help people create, explore, learn, and turn ambitio
 
 | Project | Focus |
 | --- | --- |
-| **Tanya OS** | Local-first AI desktop experience, voice interaction, cognition, and memory |
+| **Jasper Prism** | Photorealistic rendering research |
+| **Tanya OS** | AI research project |
 | **ForgeMCP** | Unreal Engine development automation |
 | **ForgeAI** | Blender creative automation |
-| **Jasper Prism** | Photorealistic rendering research |
-| **WorkSpaces** | Creative brainstorming, writing, and productivity |
 | **Grace Seek** | Bible study and scripture research tools |
+| **WorkSpaces** | Creative brainstorming, writing, and productivity |
 
 **Explore projects:** [majesticcreations.org](https://majesticcreations.org)
 
