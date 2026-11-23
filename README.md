@@ -1,7 +1,31 @@
 <div align="center">
 
+<br>
+
 <img src="./assets/majestic-creations-wordmark.svg" alt="MAJESTIC CREATIONS" width="820">
-### Apps · Games · Worlds · Ideas
+
+<p>
+  <sub><strong>APPS · GAMES · WORLDS · IDEAS</strong></sub>
+</p>
+
+<p>
+  <strong>Kenneth Salmon</strong><br>
+  Graphic Designer · Software Developer · Creative Technologist
+</p>
+
+<p>
+  <a href="https://majesticcreations.org">
+    <img src="https://img.shields.io/badge/Visit-Majestic%20Creations-D9AF55?style=for-the-badge&labelColor=111111&color=D9AF55" alt="Visit Majestic Creations">
+  </a>
+</p>
+
+<p><em>
+Creating software, worlds, visual experiences, and tools that bring ideas to life.
+</em></p>
+
+</div>
+
+---
 
 **Kenneth Salmon** — Graphic Designer · Software Developer · Creative Technologist
 
