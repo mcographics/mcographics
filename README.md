@@ -1,6 +1,6 @@
 <div align="center">
 
-# MAJESTIC CREATIONS
+<img src="./assets/majestic-creations-wordmark.svg" alt="MAJESTIC CREATIONS" width="820">
 ### Apps · Games · Worlds · Ideas
 
 **Kenneth Salmon** — Graphic Designer · Software Developer · Creative Technologist
