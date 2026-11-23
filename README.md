@@ -26,11 +26,9 @@ I enjoy building tools that help people create, explore, learn, and turn ambitio
 | **Tanya OS** | Local-first AI desktop experience, voice interaction, cognition, and memory |
 | **ForgeMCP** | Unreal Engine development automation |
 | **ForgeAI** | Blender creative automation |
-| **Genesis Engine** | Experimental world-creation technology |
 | **Jasper Prism** | Photorealistic rendering research |
 | **WorkSpaces** | Creative brainstorming, writing, and productivity |
 | **Grace Seek** | Bible study and scripture research tools |
-| **Space Eye** | Interactive space exploration and visualization |
 
 **Explore projects:** [majesticcreations.org](https://majesticcreations.org)
 
