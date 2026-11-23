@@ -131,13 +131,30 @@ My creative and development toolbox, as featured on [Majestic Creations](https:/
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcographics&show_icons=true&theme=github_dark&hide_border=true)
+<p><strong>DEVELOPMENT OVERVIEW</strong></p>
+<p><sub>PUBLIC REPOSITORIES · CONTRIBUTIONS · TECHNOLOGY</sub></p>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcographics&layout=compact&theme=github_dark&hide_border=true)
+<a href="https://github.com/mcographics?tab=repositories"><img alt="Explore GitHub repositories" src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-D9AF55?style=for-the-badge&labelColor=0D1117&color=D9AF55"></a>
+<a href="https://github.com/mcographics?tab=overview"><img alt="View GitHub contributions" src="https://img.shields.io/badge/VIEW-CONTRIBUTIONS-D9AF55?style=for-the-badge&labelColor=0D1117&color=D9AF55"></a>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=mcographics&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=D9AF55&text_color=EEE9DC&icon_color=D9AF55&border_color=64502D&hide_border=false" alt="GitHub account statistics" width="100%">
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcographics&layout=compact&langs_count=8&bg_color=0D1117&title_color=D9AF55&text_color=EEE9DC&border_color=64502D&hide_border=false" alt="Top programming languages across public repositories" width="100%">
+</td>
+</tr>
+</table>
+
+<p><strong>CONTRIBUTION ACTIVITY</strong></p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mcographics&bg_color=0D1117&color=D9AF55&line=D9AF55&point=F3EFE5&area=true&area_color=685028&hide_border=true&custom_title=Development%20Timeline" alt="GitHub contribution activity graph" width="100%">
 
 </div>
 
-*Statistics cards are supplied by a third-party service and may occasionally be unavailable. Language statistics reflect public repository code, not every tool I use.*
+<sub>Statistics and contribution graphs are provided by third-party services and may occasionally be unavailable. Language data reflects public repository code, not every technology I use.</sub>
 
 ---
 
