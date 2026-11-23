@@ -50,8 +50,8 @@ My creative and development toolbox, as featured on [Majestic Creations](https:/
 <td align="center" width="125"><a href="https://chatgpt.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/openai.svg" alt="ChatGPT icon" width="52" height="52"></a><br><sub><b>ChatGPT</b></sub></td>
 <td align="center" width="125"><a href="https://openai.com/codex/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/openai.svg" alt="Codex icon" width="52" height="52"></a><br><sub><b>Codex</b></sub></td>
 <td align="center" width="125"><a href="https://grok.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/x.svg" alt="Grok icon" width="52" height="52"></a><br><sub><b>Grok</b></sub></td>
-<td align="center" width="125"><a href="https://www.tripo3d.ai"><img alt="Tripo" src="https://img.shields.io/badge/Tripo-334155?style=for-the-badge" height="32"></a><br><sub><b>Tripo</b></sub></td>
-<td align="center" width="125"><a href="https://www.meshy.ai"><img alt="Meshy" src="https://img.shields.io/badge/Meshy-334155?style=for-the-badge" height="32"></a><br><sub><b>Meshy</b></sub></td>
+<td align="center" width="125"><a href="https://www.tripo3d.ai"><img src="https://www.google.com/s2/favicons?domain=tripo3d.ai&amp;sz=128" alt="Tripo logo" width="52" height="52"></a><br><sub><b>Tripo</b></sub></td>
+<td align="center" width="125"><a href="https://www.meshy.ai"><img src="https://www.google.com/s2/favicons?domain=meshy.ai&amp;sz=128" alt="Meshy logo" width="52" height="52"></a><br><sub><b>Meshy</b></sub></td>
 </tr></table>
 </div>
 
@@ -75,7 +75,7 @@ My creative and development toolbox, as featured on [Majestic Creations](https:/
 <td align="center" width="125"><a href="https://www.unrealengine.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine icon" width="52" height="52"></a><br><sub><b>Unreal Engine</b></sub></td>
 <td align="center" width="125"><a href="https://unity.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity icon" width="52" height="52"></a><br><sub><b>Unity</b></sub></td>
 <td align="center" width="125"><a href="https://www.blender.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="Blender icon" width="52" height="52"></a><br><sub><b>Blender</b></sub></td>
-<td align="center" width="125"><a href="https://www.daz3d.com"><img alt="DAZ 3D" src="https://img.shields.io/badge/DAZ_3D-334155?style=for-the-badge" height="32"></a><br><sub><b>DAZ 3D</b></sub></td>
+<td align="center" width="125"><a href="https://www.daz3d.com"><img src="https://www.google.com/s2/favicons?domain=daz3d.com&amp;sz=128" alt="DAZ 3D logo" width="52" height="52"></a><br><sub><b>DAZ 3D</b></sub></td>
 </tr></table>
 </div>
 
@@ -84,9 +84,9 @@ My creative and development toolbox, as featured on [Majestic Creations](https:/
 <div align="center">
 <table><tr>
 <td align="center" width="125"><a href="https://www.adobe.com/products/photoshop.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop icon" width="52" height="52"></a><br><sub><b>Photoshop</b></sub></td>
-<td align="center" width="125"><a href="https://www.adobe.com/products/photoshop-lightroom-classic.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lightroom/lightroom-original.svg" alt="Lightroom Classic icon" width="52" height="52"></a><br><sub><b>Lightroom Classic</b></sub></td>
-<td align="center" width="125"><a href="https://krita.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/krita/krita-original.svg" alt="Krita icon" width="52" height="52"></a><br><sub><b>Krita</b></sub></td>
-<td align="center" width="125"><a href="https://www.affinity.studio"><img alt="Affinity Photo" src="https://img.shields.io/badge/Affinity_Photo-334155?style=for-the-badge" height="32"></a><br><sub><b>Affinity Photo</b></sub></td>
+<td align="center" width="125"><a href="https://www.adobe.com/products/photoshop-lightroom-classic.html"><img src="https://www.google.com/s2/favicons?domain=adobe.com&amp;sz=128" alt="Lightroom Classic logo" width="52" height="52"></a><br><sub><b>Lightroom Classic</b></sub></td>
+<td align="center" width="125"><a href="https://krita.org"><img src="https://www.google.com/s2/favicons?domain=krita.org&amp;sz=128" alt="Krita logo" width="52" height="52"></a><br><sub><b>Krita</b></sub></td>
+<td align="center" width="125"><a href="https://www.affinity.studio"><img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/affinityphoto-icon.png" alt="Affinity Photo logo" width="52" height="52"></a><br><sub><b>Affinity Photo</b></sub></td>
 </tr></table>
 </div>
 
@@ -94,8 +94,8 @@ My creative and development toolbox, as featured on [Majestic Creations](https:/
 
 <div align="center">
 <table><tr>
-<td align="center" width="125"><a href="https://www.affinity.studio"><img alt="Affinity Designer" src="https://img.shields.io/badge/Affinity_Designer-334155?style=for-the-badge" height="32"></a><br><sub><b>Affinity Designer</b></sub></td>
-<td align="center" width="125"><a href="https://www.affinity.studio"><img alt="Affinity Publisher" src="https://img.shields.io/badge/Affinity_Publisher-334155?style=for-the-badge" height="32"></a><br><sub><b>Affinity Publisher</b></sub></td>
+<td align="center" width="125"><a href="https://www.affinity.studio"><img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/affinitydesigner-icon.png" alt="Affinity Designer logo" width="52" height="52"></a><br><sub><b>Affinity Designer</b></sub></td>
+<td align="center" width="125"><a href="https://www.affinity.studio"><img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/affinitypublisher-icon.png" alt="Affinity Publisher logo" width="52" height="52"></a><br><sub><b>Affinity Publisher</b></sub></td>
 </tr></table>
 </div>
 
