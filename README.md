@@ -21,18 +21,26 @@ I enjoy building tools that help people create, explore, learn, and turn ambitio
 
 ## Featured Work
 
+### Releases Available
+
+| Application | Focus |
+| --- | --- |
+| **The Islamic Dilemma** | Android research app |
+| **Work Day with God** | Daily devotional app for Windows and Android |
+| **ChainBreaker** | Scripture-based daily missions and reflection app |
+| **Bible Recorder & Note Taker** | Android Bible study and recording app |
+| **From Islam to Christ** | Bible-centered exploration guide for Windows and Android |
+| **Words of Yeshua** | Scripture study companion for Windows and Android |
+| **Public Nuisance** | Android satire news reader |
+
+### Research
+
 | Project | Focus |
 | --- | --- |
-| **Jasper Prism** | Photorealistic rendering research |
 | **Tanya OS** | AI research project |
-| **ForgeMCP** | Unreal Engine development automation |
-| **ForgeAI** | Blender creative automation |
-| **Grace Seek** | Bible study and scripture research tools |
-| **WorkSpaces** | Creative brainstorming, writing, and productivity |
 
-**Explore projects:** [majesticcreations.org](https://majesticcreations.org)
+**Explore releases:** [Majestic Creations](https://majesticcreations.org)
 
-> Some projects are experimental, in development, or maintained in private repositories.
 
 ---
 
