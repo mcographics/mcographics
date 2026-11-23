@@ -47,9 +47,9 @@ My creative and development toolbox, as featured on [Majestic Creations](https:/
 
 <div align="center">
 <table><tr>
-<td align="center" width="125"><a href="https://chatgpt.com"><img src="https://chatgpt.com/favicon.ico" alt="ChatGPT official website icon" width="52" height="52"></a><br><sub><b>ChatGPT</b></sub></td>
+<td align="center" width="125"><a href="https://chatgpt.com"><img src="https://cdn.simpleicons.org/openai/FFFFFF" alt="ChatGPT light-mode-friendly logo" width="52" height="52"></a><br><sub><b>ChatGPT</b></sub></td>
 <td align="center" width="125"><a href="https://openai.com/codex/"><img src="https://openai.com/favicon.ico" alt="Codex official website icon" width="52" height="52"></a><br><sub><b>Codex</b></sub></td>
-<td align="center" width="125"><a href="https://grok.com"><img src="https://grok.com/favicon.ico" alt="Grok official website icon" width="52" height="52"></a><br><sub><b>Grok</b></sub></td>
+<td align="center" width="125"><a href="https://grok.com"><img src="https://www.google.com/s2/favicons?domain=grok.com&amp;sz=128" alt="Grok light-mode-friendly logo" width="52" height="52"></a><br><sub><b>Grok</b></sub></td>
 <td align="center" width="125"><a href="https://www.tripo3d.ai"><img src="https://www.google.com/s2/favicons?domain=tripo3d.ai&amp;sz=128" alt="Tripo logo" width="52" height="52"></a><br><sub><b>Tripo</b></sub></td>
 <td align="center" width="125"><a href="https://www.meshy.ai"><img src="https://www.google.com/s2/favicons?domain=meshy.ai&amp;sz=128" alt="Meshy logo" width="52" height="52"></a><br><sub><b>Meshy</b></sub></td>
 </tr></table>
@@ -72,7 +72,7 @@ My creative and development toolbox, as featured on [Majestic Creations](https:/
 
 <div align="center">
 <table><tr>
-<td align="center" width="125"><a href="https://www.unrealengine.com"><img src="https://www.unrealengine.com/favicon.ico" alt="Unreal Engine official website icon" width="52" height="52"></a><br><sub><b>Unreal Engine</b></sub></td>
+<td align="center" width="125"><a href="https://www.unrealengine.com"><img src="https://cdn.simpleicons.org/unrealengine/FFFFFF" alt="Unreal Engine light-mode-friendly logo" width="52" height="52"></a><br><sub><b>Unreal Engine</b></sub></td>
 <td align="center" width="125"><a href="https://unity.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity icon" width="52" height="52"></a><br><sub><b>Unity</b></sub></td>
 <td align="center" width="125"><a href="https://www.blender.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="Blender icon" width="52" height="52"></a><br><sub><b>Blender</b></sub></td>
 <td align="center" width="125"><a href="https://www.daz3d.com"><img src="https://www.google.com/s2/favicons?domain=daz3d.com&amp;sz=128" alt="DAZ 3D logo" width="52" height="52"></a><br><sub><b>DAZ 3D</b></sub></td>
