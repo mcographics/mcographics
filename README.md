@@ -51,9 +51,6 @@ I enjoy building tools that help people create, explore, learn, and turn ambitio
 | --- | --- |
 | **Tanya OS** | AI research project |
 
-**Explore releases:** [Majestic Creations](https://majesticcreations.org)
-
-
 ---
 
 ## Apps & Tools
