@@ -10,8 +10,6 @@
 
 <p><strong>APPS · GAMES · WORLDS · IDEAS</strong></p>
 
-<p>
-  <strong>Kenneth Salmon</strong><br>
   Graphic Designer · Software Developer · Creative Technologist
 </p>
 
