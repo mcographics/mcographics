@@ -30,7 +30,7 @@ I enjoy building tools that help people create, explore, learn, and turn ambitio
 | **ChainBreaker** | Men's Scripture-based rule-of-life app focused on breaking chains and building strength through daily missions, training, reflection, and brotherhood |
 | **Bible Recorder & Note Taker** | Android Bible study and recording app |
 | **From Islam to Christ** | A faith-guidance app for people who have left Islam and want to begin their journey of discovering Jesus Christ |
-| **Words of Yeshua** | Scripture study companion for Windows and Android |
+| **Words of Yeshua** | Bible-based app focused exclusively on Jesus Christ, His words, life, and teachings |
 | **Public Nuisance** | Android satire news reader |
 
 ### Research
