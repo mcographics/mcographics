@@ -6,7 +6,6 @@
 **Kenneth Salmon** — Graphic Designer · Software Developer · Creative Technologist
 
 [![Website](https://img.shields.io/badge/Majestic_Creations-Website-C8A44D?style=for-the-badge)](https://majesticcreations.org)
-[![GitHub](https://img.shields.io/badge/GitHub-mcographics-181717?style=for-the-badge&logo=github)](https://github.com/mcographics)
 
 *Creating software, worlds, visual experiences, and tools that bring ideas to life.*
 
@@ -47,8 +46,8 @@ My creative and development toolbox, as featured on [Majestic Creations](https:/
 
 <div align="center">
 <table><tr>
-<td align="center" width="125"><a href="https://chatgpt.com"><img src="https://cdn.simpleicons.org/openai/FFFFFF" alt="ChatGPT light-mode-friendly logo" width="52" height="52"></a><br><sub><b>ChatGPT</b></sub></td>
-<td align="center" width="125"><a href="https://openai.com/codex/"><img src="https://openai.com/favicon.ico" alt="Codex official website icon" width="52" height="52"></a><br><sub><b>Codex</b></sub></td>
+<td align="center" width="125"><a href="https://chatgpt.com"><img src="https://openai.com/favicon.ico" alt="ChatGPT logo" width="52" height="52"></a><br><sub><b>ChatGPT</b></sub></td>
+<td align="center" width="125"><a href="https://openai.com/codex/"><img src="https://raw.githubusercontent.com/backnotprop/orchestrator/main/assets/providers/codex-icon-dark.png" alt="Codex app logo" width="52" height="52"></a><br><sub><b>Codex</b></sub></td>
 <td align="center" width="125"><a href="https://grok.com"><img src="https://www.google.com/s2/favicons?domain=grok.com&amp;sz=128" alt="Grok light-mode-friendly logo" width="52" height="52"></a><br><sub><b>Grok</b></sub></td>
 <td align="center" width="125"><a href="https://www.tripo3d.ai"><img src="https://www.google.com/s2/favicons?domain=tripo3d.ai&amp;sz=128" alt="Tripo logo" width="52" height="52"></a><br><sub><b>Tripo</b></sub></td>
 <td align="center" width="125"><a href="https://www.meshy.ai"><img src="https://www.google.com/s2/favicons?domain=meshy.ai&amp;sz=128" alt="Meshy logo" width="52" height="52"></a><br><sub><b>Meshy</b></sub></td>
