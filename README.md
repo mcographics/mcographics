@@ -29,7 +29,7 @@ I enjoy building tools that help people create, explore, learn, and turn ambitio
 | **Work Day with God** | Daily devotional app for Windows and Android |
 | **ChainBreaker** | Men's Scripture-based rule-of-life app focused on breaking chains and building strength through daily missions, training, reflection, and brotherhood |
 | **Bible Recorder & Note Taker** | Android Bible study and recording app |
-| **From Islam to Christ** | Bible-centered exploration guide for Windows and Android |
+| **From Islam to Christ** | A faith-guidance app for people who have left Islam and want to begin their journey of discovering Jesus Christ |
 | **Words of Yeshua** | Scripture study companion for Windows and Android |
 | **Public Nuisance** | Android satire news reader |
 
