@@ -148,6 +148,7 @@ My creative and development toolbox, as featured on [Majestic Creations](https:/
 
 - **Website:** [Majestic Creations](https://majesticcreations.org)
 - **GitHub:** [@mcographics](https://github.com/mcographics)
+- **X:** [_kennethsalmon](https://x.com/_kennethsalmon)
 
 <div align="center">
 
